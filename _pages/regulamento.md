@@ -10,13 +10,19 @@ Faça o download dos regulamentos da BLP Asset:
 
 [Política de Exercício de Direito de Voto]({{ '/assets/documents/PV2020.pdf' | absolute_url }})
 
-[Políticas de Riscos]({{ '/assets/documents/PR2020.pdf' }})
+[Políticas de Risco]({{ '/assets/documents/PR2020.pdf' }})
+
+[Políticas de Risco de Crédito]({{ '/assets/documents/PGRC2020.pdf' }})
 
 [Código de Ética e Manual de Compliance]({{ '/assets/documents/CEMC2020.pdf' }})
 
 [Política de Certificação]({{ '/assets/documents/PC2020.pdf' }})
 
+[Política de Alocação de Recursos]({{ '/assets/documents/PA2020.pdf' }})
+
 [Política de Continuidade de Negócios]({{ '/assets/documents/PCN2020.pdf' }})
+
+[Plano de Negócios]({{ '/assets/documents/BP2020.pdf' }})
 
 [Política de Rateio de Ordens]({{ '/assets/documents/PRO2020.pdf' }})
 
