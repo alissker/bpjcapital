@@ -6,9 +6,9 @@ title: Manuais & Políticas
 
 Faça o download dos regulamentos da BLP Asset:
 
-[Formulário de referência]({{ '/assets/documents/form-referencia.pdf' | absolute_url }})
+[Formulário de referência]({{ '/assets/documents/form-referencia.pdf' }})
 
-[Política de Exercício de Direito de Voto]({{ '/assets/documents/PV2020.pdf' | absolute_url }})
+[Política de Exercício de Direito de Voto]({{ '/assets/documents/PV2020.pdf' }})
 
 [Políticas de Risco]({{ '/assets/documents/PR2020.pdf' }})
 
